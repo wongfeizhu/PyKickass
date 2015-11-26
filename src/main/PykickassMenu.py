@@ -20,11 +20,12 @@ class PyKickassMenu(object):
 
 
     def __init__(self):
-        '''
+        ''''
         Constructor
         '''
         self.piapi = PyKickassAPI()
-        self.piutils = PyKickassUtils()
+        self.piutils = PyKickassUtils() 
+        
         
     
     def clear_screen(self):
