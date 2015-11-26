@@ -25,6 +25,6 @@ How to Use:
 
 The program is pretty much menu driven and easy to follow.
 
-if you have any questions, fill free to contact me.
+if you have any questions, feel free to contact me.
 
 blk_ninja.
